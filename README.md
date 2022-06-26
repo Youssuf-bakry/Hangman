@@ -12,5 +12,5 @@ If you got 8 wrong trials you can't continue.
 3. PURE JS
 
 ### Live site :
-(!here)[]
+(!here)[https://youssuf-bakry.github.io/Hangman/]
 
